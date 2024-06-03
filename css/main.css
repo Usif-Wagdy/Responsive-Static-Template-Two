@@ -25,6 +25,9 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
+.html {
+  scroll-behaviour: smooth;
+}
 .container {
   padding-left: var(--section-padding-l-r);
   padding-right: var(--section-padding-l-r);
