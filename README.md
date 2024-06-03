@@ -1,2 +1,3 @@
 # Responsive-Static-Template-Two
-Simple responsive template
+## >> DEMO
+https://usif-wagdy.github.io/Responsive-Static-Template-Two/
